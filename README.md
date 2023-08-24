@@ -14,6 +14,13 @@ Given a note-taking application, when I open the Note Takerthen I am presented w
 <br>When I click on the Write icon in the navigation at the top of the page, then I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 Mock-Up.
 
-## Technologies Used
+## Credits
 
 Express.js: https://expressjs.com/
+<br> Source Code: https://github.com/coding-boot-camp/miniature-eureka
+
+## Examples
+
+Website Link: https://shrouded-waters-78346-e1670e15de16.herokuapp.com/
+
+Application: ![alt text](./public/images/Screenshot%202023-08-23%20215849.png)
